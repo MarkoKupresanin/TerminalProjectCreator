@@ -7,4 +7,4 @@
 
 
 ## Note:
-### Lines 7 and 8 can be changed to where the project wants to be located
+### Lines 8 and 9 can be changed to where the project wants to be located
