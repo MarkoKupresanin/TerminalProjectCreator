@@ -1,10 +1,11 @@
 #! /bin/bash
 
 read -p "Name of project folder: " FOLDERNAME
-cd documents
+
 
 read -p "What type of file: " FILEEXTENSION
 
+cd documents
 cd projects
 mkdir $FOLDERNAME
 
