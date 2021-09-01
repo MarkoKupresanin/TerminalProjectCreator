@@ -2,7 +2,7 @@
 
 ### How to run:
 #### cd (directory where the **makeproject.sh** file is)
-#### chmod +x makeproject.sh (This is in order to run the file without requiring sudo every time)
+#### chmod +x makeproject.sh (This is in order to run the file as an executable)
 #### ./makeproject.sh
 
 
